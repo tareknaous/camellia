@@ -18,7 +18,7 @@ The ```contexts``` folder provides three kinds of masked contexts for entities:
 
 - ```camellia-grounded```: culturally-grounded contexts where only entities associated with each Asian culture are appropriate [MASK] fillings
 - ```camellia-neutral```: culturally-neutral contexts where entities associated with any culture are appropriate [MASK] fillings
-- ```camellia-qa```:  long contexts with implicit reference to the [MASK] which supports evaluation on extractive QA.
+- ```camellia-qa```:  long contexts with implicit reference to the [MASK] which supports evaluation on extractive QA
 
 All contexts and entities are paired with an English translation.
 
