@@ -1,6 +1,8 @@
 # Camellia: Benchmarking Cultural Biases in LLMs for Asian Languages
 
-This repository contains the entities and masked contexts of the Camellia dataset for measuring cultural biases in LLMs for Asian languages.
+This repository contains the entities and masked contexts of the Camellia dataset for measuring entity-centric cultural biases in LLMs for Asian languages.
+
+The benchmark covers 9 Asian languages  (```Chinese, Japanese, Korean, Vietnamese, Urdu, Hindi, Gujarati, Marathi, Malayalam```) and 6 Asian cultures (```Chinese, Japanese, Korean, Vietnamese, Pakistani, Indian```).
 
 For more details, see the accompanying paper:
 
@@ -18,7 +20,7 @@ The ```contexts``` folder provides three kinds of masked contexts for entities:
 - ```camellia-neutral```: culturally-neutral contexts where entities associated with any culture are appropriate [MASK] fillings
 - ```camellia-qa```:  long contexts with implicit reference to the [MASK] which supports evaluation on extractive QA.
 
-All contexts entities are paired with an English translation.
+All contexts and entities are paired with an English translation.
 
  
 ## Citation
