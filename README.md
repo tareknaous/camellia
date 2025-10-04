@@ -2,7 +2,7 @@
 
 This repository contains the entities and masked contexts of the Camellia dataset for measuring cultural biases in LLMs for Asian languages.
 
-For more details, see the accompanying paper:\
+For more details, see the accompanying paper:
 
 [link], **arXiv 2025**
 
