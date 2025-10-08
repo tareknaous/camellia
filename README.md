@@ -6,7 +6,7 @@ The benchmark covers 9 Asian languages  (```Chinese, Japanese, Korean, Vietnames
 
 For more details, see the accompanying paper:
 
-[link], **arXiv 2025**
+[Camellia: Benchmarking Cultural Biases in LLMs for Asian Languages](https://arxiv.org/pdf/2510.05291), **arXiv 2025**
 
 ## Cultural Entities
 
@@ -25,7 +25,15 @@ All contexts and entities are paired with an English translation.
  
 ## Citation
 ```
- 
+@misc{naous2025camelliabenchmarkingculturalbiases,
+      title={Camellia: Benchmarking Cultural Biases in LLMs for Asian Languages}, 
+      author={Tarek Naous and Anagha Savit and Carlos Rafael Catalan and Geyang Guo and Jaehyeok Lee and Kyungdon Lee and Lheane Marie Dizon and Mengyu Ye and Neel Kothari and Sahajpreet Singh and Sarah Masud and Tanish Patwa and Trung Thanh Tran and Zohaib Khan and Alan Ritter and JinYeong Bak and Keisuke Sakaguchi and Tanmoy Chakraborty and Yuki Arase and Wei Xu},
+      year={2025},
+      eprint={2510.05291},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.05291}, 
+} 
 ```
 
 ## Contact
